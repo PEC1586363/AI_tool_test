@@ -1,4 +1,4 @@
-#include "int_math.h"
+#include "fp_math.h"
 
 int main(){
     int a = 0,b=0;
